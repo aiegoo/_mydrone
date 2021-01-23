@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.com/guilyx/autonomous-uav.svg)](http://hits.dwyl.com/guilyx/autonomous-uav)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -101,3 +100,20 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 ## Contributors
+
+
+[saythanks-shield]: https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?style=flat-square
+[saythanks-url]: https://saythanks.io/to/erwin.lejeune15%40gmail.com?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/guilyx/autonomous-uav.svg?style=flat-square
+[contributors-url]: https://github.com/guilyx/autonomous-uav/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/guilyx/autonomous-uav.svg?style=flat-square
+[forks-url]: https://github.com/guilyx/autonomous-uav/network/members
+[stars-shield]: https://img.shields.io/github/stars/guilyx/autonomous-uav.svg?style=flat-square
+[stars-url]: https://github.com/guilyx/autonomous-uav/stargazers
+[issues-shield]: https://img.shields.io/github/issues/guilyx/autonomous-uav.svg?style=flat-square
+[issues-url]: https://github.com/guilyx/autonomous-uav/issues
+[license-shield]: https://img.shields.io/github/license/guilyx/autonomous-uav.svg?style=flat-square
+[license-url]: https://github.com/guilyx/autonomous-uav/blob/master/LICENSE.md
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/erwinlejeune-lkn
+
