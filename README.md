@@ -101,9 +101,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contributors
 
-
 [saythanks-shield]: https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?style=flat-square
-[saythanks-url]: https://saythanks.io/to/erwin.lejeune15%40gmail.com?style=flat-square
+[saythanks-url]: https://saythanks.io/to/onofftony@gmail.com?style=flat-square
 [contributors-shield]: https://img.shields.io/github/contributors/aiegoo/finalproject.svg?style=flat-square
 [contributors-url]: https://github.com/aiegoo/finalproject/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/aiegoo/finalproject.svg?style=flat-square
