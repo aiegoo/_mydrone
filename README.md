@@ -121,7 +121,10 @@ source activate fcnd
 
 To use the simulator for control testing, follow these steps :
 
-> the setup itself is a tl,tr manual, check the doc [here]](./setup.md)
+> the setup itself is a tl,tr manual, 
+ 
+ check the doc [here] (./setup.md)
+
 
 
 ## Visualization
