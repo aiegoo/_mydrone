@@ -53,7 +53,7 @@
 
 #### Introduction / statement of purpose [googledocs file](https://docs.google.com/document/d/1Qm3wPX6avlFVy6BahFfp8X-skUXxXDU26JX0ie-TXc8/edit?usp=sharing)
 
-My goal during and after this course is to design an autonomous UAS to work under any circumstances for the logistics industry. While this goal is too broad and requires various apprentices in the field of navigation, aeronautics and programming in low-level to higher-level languages, I have focused on different GSC and simulator platforms such as QGC, Gazebo, Matlab, Cleanflight Configurator and FCND among others. I have also used various open-source and proprietary drones (see my [hardwares](./Required-Hardware.md)). In this project, I have achieved the following:
+My goal during and after this course is to design an autonomous UAS to work under any circumstances for the logistics industry. While this goal is too broad and requires many disciplines of navigation, aeronautics and programming in low-level to higher-level languages, I have focused on different GSC and simulator platforms such as QGC, Gazebo, Matlab, Cleanflight Configurator and FCND among others. I have also used various open-source and proprietary drones (see my [hardwares](./Required-Hardware.md), [hardware config](https://github.com/aiegoo/finalproject/projects/1). In this project, I have achieved the following:
 
 - Action pipeline based on bash scripts and webserver to pull and update code changes remotely. 
 - Python- and ROS-based connection to each nodes
