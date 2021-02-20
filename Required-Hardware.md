@@ -79,7 +79,7 @@ A laptop with Ubuntu 20.04 is required to run the Ground Control System to contr
 | type   | name   | fc   | sensor1   | sensor2   |
 |:---|:--:|:--:|:--:|---:|
 | land   |  jetbot  | jetson nano   |  camera  |    |
-|    |    |    |    |    |
+|    | [image](misc/jetbot.png) |    |    |    |
 | Air   | bebop2   | apm(?)   | android  |  fpv camera  |
 |    |    |    | arduino wifi   |    |
 |   * | APM   | pixhracer  | gymbol   | fpv camera   |
