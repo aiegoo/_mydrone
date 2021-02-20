@@ -22,7 +22,7 @@ Hardware that is required on both air and ground sides
 
 ## RUT955 Cellular Router
 
-![RUT955](images/ogc/development/sms-link/rut955.png)
+![RUT955](https://github.com/aiegoo/_mydrone/wiki/images/ogc/development/sms-link/rut955.png)
 
 Connects the aircraft and the GCS to the Internet and SMS communication through the cellular network. Any cellular router would work, but the code is written specifically for the RUT955. It should be able to work with all Teltonika RUT*** models, but any other models may require tweaks to the code. 
 
@@ -32,7 +32,7 @@ The SIM card allows us to connect to the internet and cellular networks. Without
 
 ## Rockblock 9603
 
-![Rockblock 9603](images/ogc/development/sbd-link/9603.jpeg)
+![Rockblock 9603](https://github.com/aiegoo/_mydrone/wiki/images/ogc/development/sbd-link/9603.jpeg)
 
 The rockblock connects us to Iridium satellites in order for the SBD node to work. Other satellite devices will work, but some modification of the code may be required. 
 
@@ -42,25 +42,25 @@ Hardware that is required exclusively on air side
 
 ## Beaglebone Black Industrial
 
-![Beaglebone Black Industrial](images/getting-started/required-hardware/BBB.png)
+![Beaglebone Black Industrial](https://github.com/aiegoo/_mydrone/wiki/images/getting-started/required-hardware/BBB.png)
 
 We use a Beaglebone Black Industrial as a companion computer to run all our custom software. It is linked to the router for communication with the ground. It is also the device which stores the mission files which will be needed by the autopilot. 
 
 ## Cube Black
 
-![Cube Black](images/getting-started/required-hardware/Cube.png)
+![Cube Black](https://github.com/aiegoo/_mydrone/wiki/images/getting-started/required-hardware/Cube.png)
 
 The cube is the autopilot responsible for piloting the aircraft. 
 
 ## Wiz Serial to Ethernet
 
-![W5500S2E_Z1](images/getting-started/required-hardware/Wiz.jpg)
+![W5500S2E_Z1](https://github.com/aiegoo/_mydrone/wiki/images/getting-started/required-hardware/Wiz.jpg)
 
 The WIZ serial to ethernet board is used to physically link the Cube Black to our RUT955 so that data can be transferred between our companion computer and the cube, as well as with the ground control station to afford more command and control to the operators. 
 
 ## Button & Buzzer
 
-![Button](images/ogc/development/rff/Button.jpg)![Buzzer](images/ogc/development/rff/Buzzer.jpg)
+![Button](https://github.com/aiegoo/_mydrone/wiki/images/ogc/development/rff/Button.jpg)![Buzzer](https://github.com/aiegoo/_mydrone/wiki/images/ogc/development/rff/Buzzer.jpg)
 
 The button and buzzer are crucial in the safe operation of Nemo. The button is used to let the plane know when it is safe to take off again, and the buzzer is able to warn people around the aircraft to stay clear when it is about to be armed. Any passive button and continuous internal buzzer that can achieve the same objectives can be used. 
 
