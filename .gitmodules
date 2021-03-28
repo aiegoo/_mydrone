@@ -1,0 +1,3 @@
+[submodule "3d-model"]
+	path = 3d-model
+	url = git@github.com:aiegoo/3d-printed-drone-assembly-
