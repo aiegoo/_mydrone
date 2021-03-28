@@ -60,11 +60,10 @@ The WIZ serial to ethernet board is used to physically link the Cube Black to ou
 
 ## Button & Buzzer
 
-<<<<<<< HEAD
 | |     |  |     |
 | ---    | --- | --- | --- |
 |![Button](https://github.com/aiegoo/_mydrone/wiki/images/ogc/development/rff/Button.jpg) | button   | ![Buzzer](https://github.com/aiegoo/_mydrone/wiki/images/ogc/development/rff/Buzzer.jpg) | buzzer   |
->>>>>>> a3ecdf5eeb78781966139cb3f1bce7d7bd4fde5f
+
 The button and buzzer are crucial in the safe operation of Nemo. The button is used to let the plane know when it is safe to take off again, and the buzzer is able to warn people around the aircraft to stay clear when it is about to be armed. Any passive button and continuous internal buzzer that can achieve the same objectives can be used. 
 
 # Ground
