@@ -22,7 +22,7 @@ Hardware that is required on both air and ground sides
 
 ## RUT955 Cellular Router
 
-![RUT955](images/ogc/development/sms-link/rut955.png)
+![RUT955](https://github.com/aiegoo/_mydrone/wiki/images/ogc/development/sms-link/rut955.png)
 
 Connects the aircraft and the GCS to the Internet and SMS communication through the cellular network. Any cellular router would work, but the code is written specifically for the RUT955. It should be able to work with all Teltonika RUT*** models, but any other models may require tweaks to the code. 
 
@@ -32,7 +32,7 @@ The SIM card allows us to connect to the internet and cellular networks. Without
 
 ## Rockblock 9603
 
-![Rockblock 9603](images/ogc/development/sbd-link/9603.jpeg)
+![Rockblock 9603](https://github.com/aiegoo/_mydrone/wiki/images/ogc/development/sbd-link/9603.jpeg)
 
 The rockblock connects us to Iridium satellites in order for the SBD node to work. Other satellite devices will work, but some modification of the code may be required. 
 
@@ -42,13 +42,13 @@ Hardware that is required exclusively on air side
 
 ## Beaglebone Black Industrial
 
-![Beaglebone Black Industrial](images/getting-started/required-hardware/BBB.png)
+![Beaglebone Black Industrial](https://github.com/aiegoo/_mydrone/wiki/images/getting-started/required-hardware/BBB.png)
 
 We use a Beaglebone Black Industrial as a companion computer to run all our custom software. It is linked to the router for communication with the ground. It is also the device which stores the mission files which will be needed by the autopilot. 
 
 ## Cube Black
 
-![Cube Black](images/getting-started/required-hardware/Cube.png)
+![Cube Black](https://github.com/aiegoo/_mydrone/wiki/images/getting-started/required-hardware/Cube.png)
 
 The cube is the autopilot responsible for piloting the aircraft. 
 
@@ -60,8 +60,11 @@ The WIZ serial to ethernet board is used to physically link the Cube Black to ou
 
 ## Button & Buzzer
 
-![Button](images/ogc/development/rff/Button.jpg)![Buzzer](images/ogc/development/rff/Buzzer.jpg)
-
+<<<<<<< HEAD
+| |     |  |     |
+| ---    | --- | --- | --- |
+|![Button](https://github.com/aiegoo/_mydrone/wiki/images/ogc/development/rff/Button.jpg) | button   | ![Buzzer](https://github.com/aiegoo/_mydrone/wiki/images/ogc/development/rff/Buzzer.jpg) | buzzer   |
+>>>>>>> a3ecdf5eeb78781966139cb3f1bce7d7bd4fde5f
 The button and buzzer are crucial in the safe operation of Nemo. The button is used to let the plane know when it is safe to take off again, and the buzzer is able to warn people around the aircraft to stay clear when it is about to be armed. Any passive button and continuous internal buzzer that can achieve the same objectives can be used. 
 
 # Ground
@@ -76,7 +79,7 @@ A laptop with Ubuntu 20.04 is required to run the Ground Control System to contr
 | type   | name   | fc   | sensor1   | sensor2   |
 |:---|:--:|:--:|:--:|---:|
 | land   |  jetbot  | jetson nano   |  camera  |    |
-|    |    |    |    |    |
+|    | [image](misc/jetbot.png) |    |    |    |
 | Air   | bebop2   | apm(?)   | android  |  fpv camera  |
 |    |    |    | arduino wifi   |    |
 |   * | APM   | pixhracer  | gymbol   | fpv camera   |
@@ -84,7 +87,7 @@ A laptop with Ubuntu 20.04 is required to run the Ground Control System to contr
 |    | dji   | naza m lite   |  fpv camera  |    |
 |    |    |    |follding    |  -  |
 |    |    |  -  |  -  |  -  |
-|    | jti   | pixhawk   | -   | -   |
+|    | jti   | pixhawk   | -   | -   |https://github.com/aiegoo/_mydrone/wiki/images/ogc/development/rff/Buzzer.jpg
 |    |    |    |  -  |  -  |
 |    |  sky (흰색) |  naze32   | camera   |  -  |
 |    |    | cleanflight   |  -  | -   |
