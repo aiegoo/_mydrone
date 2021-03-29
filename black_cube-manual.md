@@ -221,7 +221,7 @@ upon successful completion three rising tones will be emitted and a “Please re
 
 If, after multiple attempts, you are unable to calibrate the compass, Press the “Cancel” button and change the “Fitness” drop-down to a more relaxed setting and try again.
 
-[![compassCalib](misc/cub_black22a.jpg)](https://youtu.be/DwbILQgF_GQ)
+[![compassCalib](misc/compasscalib.jpg)](https://youtu.be/DwbILQgF_GQ)
 Radio Control Calibration
 Connect the RC receiver to The Cube via RCIN and turn on your RC transmitter. Verify that the transmitter is bound to the receiver (the receiver displays a solid green light) and that it is set to use the correct model for your vehicle.
 
