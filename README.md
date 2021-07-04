@@ -140,7 +140,7 @@ SessionSerializer, MovementSerializer, GlobalPoistionSerializer, GlobalHomeSeria
 > 
 
 | Simulator  | Details   | Front-end integration | Details |
-|---|---|---|---|
+|:---:|---|:---:|---|
 | [![finalproject](misc/drone-logo-01.svg)](https://youtu.be/E7Fl_TwEi_I) | Ardupilot and px4-based simulator | [![pf-frontend](misc/model-plane.svg "model-plane")](https://youtu.be/8dkMs62s8-w) | Django, Postgresql, Vue, Axios and Kalman libraries. Live vehicle tracking |
 
 <p align="center">
