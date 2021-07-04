@@ -107,7 +107,7 @@ cd ext/udacity/FCND-Term1-Starter-Kit
 conda env create -f environment.yml
 ```
 4. Verify the fcnd environment:
-```bahs
+```bash
 conda info --envs
 ```
 5. Clean up downloaded packages:
@@ -151,7 +151,7 @@ SessionSerializer, MovementSerializer, GlobalPoistionSerializer, GlobalHomeSeria
 ### Simulator Control
 
 ## Roadmap
-[finalproject](https://github.com/aiegoo/finalproject)
+[finalproject](https://github.com/aiegoo/finalproject#roadmap)
 ## Contribute
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
