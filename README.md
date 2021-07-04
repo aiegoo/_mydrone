@@ -34,11 +34,12 @@
 
 - [Table of Contents](#table-of-contents)
 - [About the Project](#about-the-project)
-    - [Introduction / statement of purpose](#introduction--statement-of-purpose)
+    - [Introduction / statement of purpose googledocs file](#introduction--statement-of-purpose-googledocs-file)
 - [Setup](#setup)
 - [Run](#run)
     - [Matplotlib planning](#matplotlib-planning)
   - [Control and Estimation Simulator](#control-and-estimation-simulator)
+    - [Environment Setup](#environment-setup)
 - [Visualization](#visualization)
   - [Simulator Control](#simulator-control)
 - [Roadmap](#roadmap)
@@ -150,7 +151,7 @@ SessionSerializer, MovementSerializer, GlobalPoistionSerializer, GlobalHomeSeria
 ### Simulator Control
 
 ## Roadmap
-
+[finalproject](https://github.com/aiegoo/finalproject)
 ## Contribute
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
