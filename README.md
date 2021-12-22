@@ -10,7 +10,7 @@
 <br />
 <p align="center">
     <img src="misc/controls-menu.gif" alt="Simulator" width="540" height="400">
-  </a>
+  
 
   <h3 align="center">Autonomous UAV</h3>
 
